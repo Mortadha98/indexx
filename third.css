@@ -122,12 +122,12 @@ button:hover {
 
 @media (max-width: 768px) {
     nav {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
     }
 
     ul {
-        flex-direction: column;
+        flex-direction: row;
         width: auto;
     }
 
